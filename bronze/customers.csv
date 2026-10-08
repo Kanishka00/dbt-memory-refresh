@@ -1,0 +1,9 @@
+customer_id,first_name,last_name,email,country,status,signup_date,total_spend
+1001,  Kanishka ,Kumarasiri,KANISHKA@example.com ,lk,ACTIVE,2026-01-15,125000.50
+1002,Nimal,Perera, nimal.perera@example.com,LK,active,2026-02-03,42000.00
+1003,Amara,Silva,AMARA.SILVA@EXAMPLE.COM,au,ACTIVE,2026-02-18,8700.25
+1004,Sahan,Fernando,sahan.f@example.com ,lk,inactive,2026-03-01,0.00
+1005,Maya,Chen,MAYA.CHEN@example.com,sg,ACTIVE,2026-03-11,65000.00
+1006,David,Smith, david.smith@example.com ,gb,active,2026-04-07,15300.75
+1007,Ayesha,Rahman,AYESHA.R@example.com,bd,ACTIVE,2026-05-20,99000.00
+1008,John,Doe,JOHN.DOE@example.com ,us,inactive,2026-06-02,2300.00

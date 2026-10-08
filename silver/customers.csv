@@ -1,0 +1,7 @@
+customer_id,full_name,email,total_spend,customer_category
+1001,Kanishka Kumarasiri,kanishka@example.com,125000.50,PLATINUM
+1002,Nimal Perera,nimal.perera@example.com,42000.00,SILVER
+1003,Amara Silva,amara.silva@example.com,8700.25,SILVER
+1005,Maya Chen,maya.chen@example.com,65000.00,GOLD
+1006,David Smith,david.smith@example.com,15300.75,SILVER
+1007,Ayesha Rahman,ayesha.r@example.com,99000.00,GOLD
